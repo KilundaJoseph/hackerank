@@ -46,3 +46,15 @@ if command=="insert":
     else:
         print("Enter a Valid command")
         print (list)
+
+
+
+
+
+
+        # list=(5,124,75,61,47,85,10,1,6,2,4,)
+
+# even, odd = count(list)
+# print (even)
+# print(odd)
+
